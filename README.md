@@ -12,4 +12,4 @@ To me, growth mindset is accepting that there is always something new to learn. 
 2. Failure is still progress if you are continually moving in the direction of success.
 3. Don't beat yourself up, even experts don't know all there is to know.
 
-This site was built using[GitHub Pages](https://Adrian6759.github.io/reading-notes/)
+This site was built using[GitHub Pages](https://github.com/Adrian6759)
