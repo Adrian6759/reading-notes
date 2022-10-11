@@ -14,6 +14,4 @@ To me, growth mindset is accepting that there is always something new to learn. 
 
 This site was built using[GitHub Pages](https://github.com/Adrian6759)
 
-## table of contents
 
-[class1notes](class1notes.md)
