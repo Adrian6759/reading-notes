@@ -16,4 +16,4 @@ This site was built using[GitHub Pages](https://github.com/Adrian6759)
 
 ## table of contents
 
-[reading-note1](reading-note1.md)
+[reading-note1](class1notes.md)
