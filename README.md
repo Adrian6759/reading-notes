@@ -10,6 +10,12 @@ This site was built using[GitHub Pages](https://github.com/Adrian6759)
 
 ## Table of Contents
 
-[class1notes](class1notes.md)
+[class1notes](102/class1notes.md)
 
-[class2notes](class2notes.md)
+[class2notes](102/class2notes.md)
+
+[class3notes](102/class3notes.md)
+
+[class4notes](102/class4notes.md)
+
+[class5notes](102/class5notes.md)
