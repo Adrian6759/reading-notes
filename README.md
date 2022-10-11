@@ -13,3 +13,7 @@ To me, growth mindset is accepting that there is always something new to learn. 
 3. Don't beat yourself up, even experts don't know all there is to know.
 
 This site was built using[GitHub Pages](https://github.com/Adrian6759)
+
+## table of contents
+
+[reading-note1](reading-note1.md)
