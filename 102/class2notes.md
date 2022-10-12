@@ -1,4 +1,4 @@
-## Class 2 Notes
+# Class 2 Notes
 
 There are standard text editors that come built into your computer that have the least amount of features such as “Text Edit” and “Notepad”. 
 

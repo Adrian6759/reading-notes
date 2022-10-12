@@ -1,4 +1,4 @@
-## Class 1 Reading Notes
+# Class 1 Reading Notes
 
 *These are my notes about Markdown.*
 

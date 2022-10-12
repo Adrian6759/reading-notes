@@ -1,4 +1,4 @@
-## Class 3 Notes
+# Class 3 Notes
 
 Version Controls of Git
 
