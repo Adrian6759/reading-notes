@@ -16,36 +16,8 @@ For Statement
 Assignment Opertator
 Assigns a value to its left operand based on the value of its right operand. The simple assignment operator is equal (=), which assigns the value of its right operand to its left operand. That is, x = f() is an assignment expression that assigns the value of f() to x.
 
-Name				Shorthand operator		Meaning
-Assignment			x = f()					x = f()
-Addition assign	    x += f()			    x = x + f()
-Subtraction assign  x -= f()			    x = x - f()
-Multiplication      x *= f()				x = x * f()
-Division assignment	x /= f()				x = x / f()
-Remainder assign	x %= f()				x = x % f()
-Exponentiation  	x **= f()				x = x ** f()
-Left shift assign	x <<= f()				x = x << f()
-Right shift assign	x >>= f()				x = x >> f()
-Unsigned rightshift x >>>= f()		        x = x >>> f()
-Bitwise AND     	x &= f()				x = x & f()
-Bitwise XOR     	x ^= f()				x = x ^ f()
-Bitwise OR  	    x |= f()			    x = x | f()
-Logical AND     	x &&= f()				x && (x = f())
-Logical OR  	    x ||= f()				x || (x = f())
-Logical nullish 	x ??= f()				x ?? (x = f())
-
-
-
 Comparison operator 
 *compares its operands and returns a logical value based on whether the comparison is true. The operands can be numerical, string, logical, or objects values.
 
-Operator	Description	
-Equal (==)		Returns true if the operands are equal.	
-Not equal (!=)	Returns true if the operands are not equal.	
-Strict equal (===)	Returns true if the operands are equal and of the same type. 
-Strict not equal (!==)	Returns true if the operands are of the same type but not equal, or are of different type.	
-Greater than (>)	Returns true if the left operand is greater than the right operand.	
-Greater than or equal (>=)	Returns true if the left operand is greater than or equal to the right operand.	
-Less than (<)	Returns true if the left operand is less than the right operand.	
-Less than or equal (<=)	Returns true if the left operand is less than or equal to the right operand.	
+
 
