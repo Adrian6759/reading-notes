@@ -1,6 +1,6 @@
 ## reading-notes
 
-**My reading journal for 102** 
+**My reading journal for 201** 
 
 Hello, my name is *Adrian Hernandez* and I am a new student at Code Fellows. I am an Army Veteran and Licensed Nurse who is in the process of making a change in careers.
 
@@ -9,6 +9,8 @@ Hello, my name is *Adrian Hernandez* and I am a new student at Code Fellows. I a
 This site was built using[GitHub Pages](https://github.com/Adrian6759)
 
 ## Table of Contents
+
+###Code 102 Reading Notes
 
 [102class1notes](102/class1notes.md)
 
@@ -25,6 +27,8 @@ This site was built using[GitHub Pages](https://github.com/Adrian6759)
 [102class7notes](102/class7notes.md)
 
 [102class8notes](102/class8notes.md)
+
+###Code 201 Reading Notes
 
 [201class1notes](201/class1notes201.md)
 
