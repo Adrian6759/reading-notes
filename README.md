@@ -6,7 +6,7 @@ Hello, my name is *Adrian Hernandez* and I am a student at Code Fellows who is e
 
 
 
-This site was built using[GitHub Pages](https://github.com/Adrian6759)
+This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 ## Table of Contents
 
