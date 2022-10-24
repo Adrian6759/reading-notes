@@ -30,7 +30,7 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 ### Code 201 Reading Notes
 
-[201Class1notes](201/class01-.md)
+[201Class1notes](201/class-01.md)
 
 [201class2notes](201/class2notes201.md)
 

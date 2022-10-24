@@ -29,7 +29,7 @@ An HTML attribute is a part of the HTML element that contains extra information 
 Describe the Anatomy of an HTMl element.
 An anatomy element is everything from an opening tag to a closing tag. Usually the ontent is stored within these tags but it can sometimes contain attributes.
 
-What is the Difference between <article> and <section> element tags?
+What is the Difference between article and section element tags?
 A section groups up parts of content while an article can have content that stands on its own.
 What Elements does a “typical” website include?
 A typical webiste would include a body, header, nav, , main, article/section and a footer.
@@ -37,7 +37,7 @@ A typical webiste would include a body, header, nav, , main, article/section and
 How does metadata influence Search Engine Optimization?
 It can make your content appear more frequently if you use the right keywords and will direct others to your website.
 
-How is the <meta> HTML tag used when specifying metadata?
+How is the meta HTML tag used when specifying metadata?
 The meta tag uses names and content within it. It specifies authors and actual content in order the type of meta element it is.
 
 What is the first step to designing a Website?
@@ -46,7 +46,7 @@ The first step to designing a website is having a clear vision what it is you wa
 What is the most important question to answer when designing a Website?
 "What exactly do I want to accomplish?"
 
-Why should you use an <h1> element over a <span> element to display a top level heading?
+Why should you use an h1 element over a span element to display a top level heading?
 Becuase using an h1 is the proper way and the proper way is the most recognizable. By using the span element, it gives no semantic value. H1 is much more meaningful in this situation.
 
 What are the benefits of using semantic tags in our HTML?
