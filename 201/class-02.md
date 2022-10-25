@@ -67,8 +67,8 @@ List 3 different types of comparison operators.
 
  ==, ===, !==
 
-What is the difference between the logical operator && and ||?
+What is the difference between the logical operator && and "||"?
 
-&& is logical AND || is logical OR
+&& is logical AND "||" is logical OR
 
 ## Things I want to know more about
