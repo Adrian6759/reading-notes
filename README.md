@@ -30,32 +30,32 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 ### Code 201 Reading Notes
 
-[201Class1notes](201/class-01.md)
+[201 Class 1 Notes](201/class-01.md)
 
-[201class2notes](201/class2notes201.md)
+[201 Class2 Notes](201/class-02.md)
 
-[201class3notes](201/class3notes201.md)
+[201 Class 3 Notes](201/class-03.md)
 
-[201class4notes](201/class4notes201.md)
+[201 Class 4 Notes](201/class-04.md)
 
-[201class5notes](201/class5notes201.md)
+[201 Class 5 Notes](201/class-05.md)
 
-[201class6notes](201/class6notes201.md)
+[201 Class 6 Notes](201/class-06.md)
 
-[201class7notes](201/class7notes201.md)
+[201 Class 7 Notes](201/class-07.md)
 
-[201class8notes](201/class8notes201.md)
+[201 Class 8 Notes](201/class-08.md)
 
-[201class9notes](201/class9notes201.md)
+[201 Class 9 Notes](201/class-09.md)
 
-[201class10notes](201/class10notes201.md)
+[201 Class 10 Notes](201/class-10.md)
 
-[201class11notes](201/class11notes201.md)
+[201 Class 11 Notes](201/class-11.md)
 
-[201class12notes](201/class12notes201.md)
+[201 Class 12 Notes](201/class-12.md)
 
-[201class13notes](201/class13notes201.md)
+[201 Class 13 Notes](201/class-13.md)
 
-[201class14notes](201/class14notes201.md)
+[201 Class 14 Notes](201/class-14.md)
 
-[201class15notes](201/class15notes201.md)
+[201 Class 15 Notes](201/class-15.md)

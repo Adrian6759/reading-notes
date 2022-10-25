@@ -58,7 +58,7 @@ New content generation requires Javascript in the browser as Javascrpt can pull 
 How can you add JavaScript to an HTML document?
 Javascript can be added to an HTML document three different ways. It can be added internally, externally or inline. External is the preferred method and inline is not recommended.
 
-Questions?
+## Things I want to know more about
 How do we maximize the usefulness of meta?
 
 
