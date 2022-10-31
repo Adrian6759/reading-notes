@@ -1,5 +1,6 @@
 # Class 6 Notes
 
+This topic matters because we need to learn how tro code more efficiently and objects will help us do that. 
 ### Javascript Objects
 
 1. How would you describe an object to a non-technical friend you grew up with?
