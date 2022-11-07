@@ -1,8 +1,8 @@
 # Class 3 Notes
 
-Ordered and unordered liat are important because it is very useful to be able to order lists. It can help make the content look cleaner.
+Ordered and unordered list are important because it is very useful to be able to order lists. It can help make the content look cleaner.
 The box model is important because it is very useful knowing how to format from our margins to our content.
-Arrays, operators and expressions, coinditionals and loops are all important because they help improve the interactivity of our websites.
+Arrays, operators and expressions, conditionals and loops are all important because they help improve the interactivity of our websites.
 
 #### Learn HTML
 1. When should you use an unordered list in your HTML document?
