@@ -2,10 +2,10 @@
 
 JavaScript Canvas
 
-1. What does the <canvas> allow a developer to acheive?
+1. What does the canvas allow a developer to acheive?
 The canvas allows developers to create 2D shapes, text, or even images.
 
-2. What is the importance of the closing `</canvas> tag?
+2. What is the importance of the closing canvas tag?
 The closing tag is actually required canvas and it needs to have fallback content in there for its best use.
 
 3. Explain what the getContext() method does.
