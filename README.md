@@ -58,4 +58,6 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [201 Class 14 Notes](201/class-14.md)
 
+[201 Class 14b Notes](201/class-14b.md)
+
 [201 Class 15 Notes](201/class-15.md)
