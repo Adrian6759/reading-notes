@@ -30,25 +30,25 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 ### Code 201 Reading Notes
 
-[301 Class 1 Notes](201/class-01.md)
+[201 Class 1 Notes](201/class-01.md)
 
-[301 Class2 Notes](201/class-02.md)
+[201 Class2 Notes](201/class-02.md)
 
-[301 Class 3 Notes](201/class-03.md)
+[201 Class 3 Notes](201/class-03.md)
 
-[301 Class 4 Notes](201/class-04.md)
+[201 Class 4 Notes](201/class-04.md)
 
-[301 Class 5 Notes](201/class-05.md)
+[201 Class 5 Notes](201/class-05.md)
 
-[301 Class 6 Notes](201/class-06.md)
+[201 Class 6 Notes](201/class-06.md)
 
-[301 Class 7 Notes](201/class-07.md)
+[201 Class 7 Notes](201/class-07.md)
 
-[301 Class 8 Notes](201/class-08.md)
+[201 Class 8 Notes](201/class-08.md)
 
-[301 Class 9 Notes](201/class-09.md)
+[201 Class 9 Notes](201/class-09.md)
 
-[301 Class 10 Notes](201/class-10.md)
+[201 Class 10 Notes](201/class-10.md)
 
 [201 Class 11 Notes](201/class-11.md)
 
