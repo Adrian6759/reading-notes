@@ -1,8 +1,8 @@
-## reading-notes
+# Reading Notes
 
 **My reading journal for 301, previously for 102 and 201** 
 
-Hello, my name is *Adrian Hernandez* and I am a student at Code Fellows who is enrolled in the Code 201 course. I am an Army Veteran and Licensed Nurse who is in the process of making a change in careers.
+Hello, my name is *Adrian Hernandez* and I am a student at Code Fellows who is enrolled in the Code 201 course. I am an Army Veteran and Licensed Nurse who is in the process of making a change in careers. This website contains my reading notes Code 102, 201, and soon to include 301.
 
 
 
@@ -10,7 +10,7 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 ## Table of Contents
 
-### Code 102 Reading Notes
+### Code 102 Intro to Software Development
 
 [102class1notes](102/class1notes.md)
 
@@ -28,7 +28,7 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [102class8notes](102/class8notes.md)
 
-### Code 201 Reading Notes
+### Code 201 Foundations of Software Development
 
 [201 Class 1 Notes](201/class-01.md)
 
@@ -62,7 +62,7 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [201 Class 15 Notes](201/class-15.md)
 
-### Code 301 Reading Notes
+### Code 301 Intermediate Software Development
 
 [301 Class 1 Notes](301/class-01.md)
 
