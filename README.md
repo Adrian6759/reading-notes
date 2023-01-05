@@ -1,8 +1,8 @@
 # Reading Notes
 
-**My reading journal for 301, previously for 102 and 201** 
+**My reading journal for 301, previously for 102, 201, and 301** 
 
-Hello, my name is *Adrian Hernandez* and I am a student at Code Fellows who is enrolled in the Code 201 course. I am an Army Veteran and Licensed Nurse who is in the process of making a change in careers. This website contains my reading notes Code 102, 201, and soon to include 301.
+Hello, my name is *Adrian Hernandez* and I am a student at Code Fellows who is enrolled in the Code 401 course. I am an Army Veteran and Licensed Nurse who is in the process of making a change in careers. This website contains my reading notes Code 102, 201, 301, and soon to include 401.
 
 
 
@@ -94,3 +94,34 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [301 Class 15 Notes](301/class-15.md)
 
+### Code 401 - Advanced Software Development
+
+[401 Class 1 Notes](401/class-01.md)
+
+[401 Class2 Notes](401/class-02.md)
+
+[401 Class 3 Notes](401/class-03.md)
+
+[401 Class 4 Notes](401/class-04.md)
+
+[401 Class 5 Notes](401/class-05.md)
+
+[401 Class 6 Notes](401/class-06.md)
+
+[401 Class 7 Notes](401/class-07.md)
+
+[401 Class 8 Notes](401/class-08.md)
+
+[401 Class 9 Notes](401/class-09.md)
+
+[401 Class 10 Notes](401/class-10.md)
+
+[401 Class 11 Notes](401/class-11.md)
+
+[401 Class 12 Notes](401/class-12.md)
+
+[401 Class 13 Notes](401/class-13.md)
+
+[401 Class 14 Notes](401/class-14.md)
+
+[401 Class 15 Notes](401/class-15.md)
