@@ -96,6 +96,8 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 ### Code 401 - Advanced Software Development
 
+[401 Data Structues and Algorithms Prep](401/prepDSA.md)
+
 [401 Class 1 Notes](401/class-01.md)
 
 [401 Class2 Notes](401/class-02.md)
