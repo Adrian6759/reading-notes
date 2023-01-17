@@ -1,0 +1,3 @@
+# Terminal Practice
+
+A lot of the information that was included was what we have already been doing while we've been in Code Fellows. There are a couple of things I didn't know about prior such as the quotation marks and being able to use them to find a specific file. There is a couple of things I hadn't done such as a manual search. That was definitely new and I'm still not entirely sure when and if I'm going to use it. I've used the mkdir, mv and touch functions before but hadn't used the remove function directory or the file directory copying. I tend to like to remove directories within VSCode. It's a little hard to remember all of these fucntions as we don't use them a whole lot but I'm definitely bookmarking the cheat sheet.
