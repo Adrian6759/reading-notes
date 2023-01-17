@@ -100,6 +100,8 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [401 Prep Into to SQL](401/prepIntroToSQL.md)
 
+[Terminal Practice](401/prepTerminalPractice.md)
+
 [401 Class 1 Notes](401/class-01.md)
 
 [401 Class2 Notes](401/class-02.md)
