@@ -1,6 +1,6 @@
 # Class Notes 12
 
-## Baeldung: Comparing repositories 
+## Baeldung: Comparing repositories
 
 - Every repositoty in Spring Data extends the generic Repositiory interface, They all have different functionality though.
 - The CrudRepository provides CRUD functions.
