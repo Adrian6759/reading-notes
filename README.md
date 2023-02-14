@@ -140,4 +140,14 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [401 Class 19 Notes](401/class-19.md)
 
-[401 Class 20 Notes](401/class-20.md)
+[401 Class 26 Notes](401/class-26.md)
+
+[401 Class 27 Notes](401/class-27.md)
+
+[401 Class 28 Notes](401/class-28.md)
+
+[401 Class 29 Notes](401/class-29.md)
+
+[401 Class 31 Notes](401/class-30.md)
+
+[401 Class 31 Notes](401/class-31.md)
