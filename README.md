@@ -148,24 +148,24 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [401 Class 29 Notes](401/class-29.md)
 
-[401 Class 31 Notes](401/class-30.md)
+[401 Class 30 Notes](401/class-30.md)
 
-[401 Class 32 Notes](401/class-31.md)
+[401 Class 31 Notes](401/class-31.md)
 
-[401 Class 33 Notes](401/class-32.md)
+[401 Class 32 Notes](401/class-32.md)
 
-[401 Class 34 Notes](401/class-33.md)
+[401 Class 33 Notes](401/class-33.md)
 
-[401 Class 35 Notes](401/class-34.md)
+[401 Class 34 Notes](401/class-34.md)
 
-[401 Class 36 Notes](401/class-35.md)
+[401 Class 35 Notes](401/class-35.md)
 
-[401 Class 37 Notes](401/class-36.md)
+[401 Class 36 Notes](401/class-36.md)
 
-[401 Class 38 Notes](401/class-37.md)
+[401 Class 37 Notes](401/class-37.md)
 
-[401 Class 39 Notes](401/class-38.md)
+[401 Class 38 Notes](401/class-38.md)
 
-[401 Class 40 Notes](401/class-39.md)
+[401 Class 39 Notes](401/class-39.md)
 
-[401 Class 31 Notes](401/class-40.md)
+[401 Class 40 Notes](401/class-40.md)
