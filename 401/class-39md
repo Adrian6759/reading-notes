@@ -1,1 +1,8 @@
 # Class 39 Reading Notes
+
+What are the benefits and downfalls of using the ‘getLastLocation()’ method to get your device’s location?
+It uses significantly less battery than if you were to constantly update the location. 
+The downfall is that it won't be that precise.
+
+What about the ‘getCurrentLocation()’ method?
+It gets a much more precise and up to date location. The downside is that it uses a significant amount of battery power.
