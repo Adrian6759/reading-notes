@@ -168,4 +168,10 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [401 Class 39 Notes](401/class-39.md)
 
-[401 Class 40 Notes](401/class-40.md)
+[401 Class 41 Notes](401/class-41.md)
+
+[401 Class 42 Notes](401/class-42.md)
+
+[401 Class 43 Notes](401/class-43.md)
+
+[401 Class 44 Notes](401/class-44.md)
