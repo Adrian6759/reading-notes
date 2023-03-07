@@ -102,7 +102,7 @@ This site was built using [GitHub Pages](https://github.com/Adrian6759)
 
 [Terminal Practice](401/prepTerminalPractice.md)
 
-[Ethics](ethics.md)
+[Ethics](401/ethics.md)
 
 [401 Class 1 Notes](401/class-01.md)
 
